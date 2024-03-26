@@ -39,13 +39,13 @@
 
                             <div class="footer-widget__links-box">
                                 <ul>
-                                    <li><a href="about.html">FAQ</a></li>
-                                    <li><a href="about.html">Careers</a></li>
-                                    <li><a href="team.html">Nigerian Waterways</a></li>
-                                    <li><a href="about.html">Publications</a></li>
-                                    <li><a href="about.html">Overview</a></li>
-                                    <li><a href="about.html">View Registration</a></li>
-                                    <li><a href="about.html">Contact Us</a></li>
+                                    <li><a href="#">FAQ</a></li>
+                                    <li><a href="#">Careers</a></li>
+                                    <li><a href="#">Nigerian Waterways</a></li>
+                                    <li><a href="#">Publications</a></li>
+                                    <li><a href="#">Overview</a></li>
+                                    <li><a href="#">View Registration</a></li>
+                                    <li><a href="#">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -61,12 +61,12 @@
 
                             <div class="footer-widget__links-box">
                                 <ul>
-                                    <li><a href="road-transport.html">Regulatory</a></li>
-                                    <li><a href="road-transport.html">Engineering</a></li>
-                                    <li><a href="road-transport.html">Marine</a></li>
-                                    <li><a href="road-transport.html">Transport</a></li>
-                                    <li><a href="road-transport.html">Survey</a></li>
-                                    <li><a href="road-transport.html">Environment</a></li>
+                                    <li><a href="#">Regulatory</a></li>
+                                    <li><a href="#">Engineering</a></li>
+                                    <li><a href="#">Marine</a></li>
+                                    <li><a href="#">Transport</a></li>
+                                    <li><a href="#">Survey</a></li>
+                                    <li><a href="#">Environment</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -114,9 +114,9 @@
                 </div>
                 <div class="copyright-menu">
                     <ul>
-                        <li><a href="about.html">Trams &amp; Condition</a></li>
-                        <li><a href="about.html">Privacy Policy</a></li>
-                        <li><a href="about.html">Support</a></li>
+                        <li><a href="#">Trams &amp; Condition</a></li>
+                        <li><a href="#">Privacy Policy</a></li>
+                        <li><a href="#">Support</a></li>
                     </ul>
                 </div>
             </div>

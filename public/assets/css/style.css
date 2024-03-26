@@ -50,7 +50,7 @@
 :root {
     --thm-body-font: 'Krub', sans-serif;
     --thm-heading-font: 'Rubik', sans-serif;
-    --thm-primary: #FFD550;
+    --thm-primary: #281b6c;
     --thm-primary-rgb: 255, 213, 80;
     --thm-secondary: #186265;
     --thm-secondary-rgb: 24, 98, 101;
@@ -1967,7 +1967,7 @@ label {
     left: 0;
     bottom: 0;
     right: 0;
-    background: linear-gradient(180deg, rgba(255, 213, 80, 0.80) 0%, #FFD550 51.4%);
+    background: linear-gradient(180deg, rgba(255, 213, 80, 0.80) 0%, #281b6c 51.4%);
     z-index: -2;
 }
 
@@ -4071,7 +4071,7 @@ Company Benefit One
     border-radius: 50%;
     width: 20px;
     height: 20px;
-    background-color: #FFD550;
+    background-color: #281b6c;
     box-shadow: 0px 0px 5px 0px rgba(18, 18, 19, 0.20);
     border: none;
     outline: none;
@@ -4093,7 +4093,7 @@ Company Benefit One
 }
 
 .company-benefit-one__distance-box .noUi-connect {
-    background-color: #ffd54f;
+    background-color: #041f41;
 }
 
 .company-benefit-one__distance-box .form-group {
