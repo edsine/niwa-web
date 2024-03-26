@@ -64,44 +64,47 @@
                                      <div class="navbar-wrap main-menu">
                                          <ul class="navigation">
                                              <li><a href="{{route('/')}}">Home</a></li>
-                                             <li><a href="{{route('about')}}">About</a></li>
-                                             <li class="menu-item-has-children"><a href="#">Services</a>
+                                             <li><a href="{{route('about')}}">Services</a></li>
+                                             <li class="menu-item-has-children"><a href="#">About Us</a>
                                                  <ul class="sub-menu">
-                                                     <li><a href="services.html">Services</a></li>
-                                                     <li><a href="road-transport.html">Road Transport</a>
+                                                     <li><a href="services.html">About Us</a></li>
+                                                     <li><a href="road-transport.html">Overview</a>
                                                      </li>
-                                                     <li><a href="air-transport.html">Air Transport</a>
+                                                     <li><a href="air-transport.html">Mandate</a>
                                                      </li>
-                                                     <li><a href="cargo-transport.html">Cargo
-                                                             Transport</a></li>
-                                                     <li><a href="ocean-freight.html">Ocean Freight</a>
+                                                     <li><a href="cargo-transport.html">Management</a></li>
+                                                     <li><a href="ocean-freight.html">Anti-Corruption And Transparency Unit (ACTU)</a>
                                                      </li>
-                                                     <li><a href="rail-transport.html">Rail Transport</a>
+                                                     <li><a href="rail-transport.html">SERVICOM</a>
                                                      </li>
-                                                     <li><a href="warehousing.html">Warehousing</a></li>
+                                                    <!-- <li><a href="warehousing.html">Warehousing</a></li> -->
                                                  </ul>
                                              </li>
-                                             <li class="menu-item-has-children"><a href="#">Pages</a>
+                                             <li class="menu-item-has-children"><a href="#">Multimedia</a>
                                                  <ul class="sub-menu">
-                                                     <li><a href="team.html">Team</a></li>
-                                                     <li><a href="team-details.html">Team Details</a>
+                                                     <li><a href="team.html">News</a></li>
+                                                     <li class="menu-item-has-children"><a href="team-details.html">Resources</a>
+                                                     <ul class="sub-menu">
+                                                     <li><a href="projects.html">Publications</a></li>
+                                                     <li><a href="projects.html">Nigerian Waterways</a></li>
+                                                     <li><a href="projects.html">FAQ</a></li>
+                                                     </ul>
                                                      </li>
                                                      <li><a href="projects.html">Projects</a></li>
-                                                     <li><a href="project-details.html">Project
-                                                             Details</a></li>
-                                                     <li><a href="error.html">404</a></li>
+                                                     <li><a href="project-details.html">Gallery</a></li>
+                                                    <!-- <li><a href="error.html">404</a></li> -->
                                                  </ul>
                                              </li>
-                                             <li class="menu-item-has-children"><a href="#">Blog</a>
+                                             <li class="menu-item-has-children"><a href="#">Licenses & Permits</a>
                                                  <ul class="sub-menu">
-                                                     <li><a href="blog.html">Blog</a></li>
-                                                     <li><a href="blog-standard.html">Blog standard</a>
+                                                     <li><a href="blog.html">Boat & Vessel</a></li>
+                                                     <li><a href="blog-standard.html">Registration</a>
                                                      </li>
-                                                     <li><a href="blog-details.html">Blog Details</a>
-                                                     </li>
+                                                    <!-- <li><a href="blog-details.html">Blog Details</a>
+                                                     </li> -->
                                                  </ul>
                                              </li>
-                                             <li><a href="contact.html">Contact</a></li>
+                                             <li><a href="contact.html">Contact Us</a></li>
                                          </ul>
                                      </div>
                                  </div>
