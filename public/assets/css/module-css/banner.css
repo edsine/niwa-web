@@ -850,7 +850,7 @@
     -o-transition: all 1500ms ease;
     transition: all 1500ms ease;
     border-radius: 50%;
-    background: linear-gradient(180deg, #FFD550 0%, #141415 100%);
+    background: linear-gradient(180deg, #281b6c 0%, #141415 100%);
     mix-blend-mode: multiply;
     z-index: -1;
 }

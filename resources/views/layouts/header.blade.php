@@ -27,9 +27,9 @@
                                                  <li>
                                                      <div class="icon-box"><span class="icon-paper-plane"></span>
                                                      </div>
-                                                     <p><a href="mailto:yourmail@email.com">info@niwa.gov.ng</a>
+                                                     <p><a href="mailto:info@niwa.gov.ng">info@niwa.gov.ng</a>
                                                         <br>
-                                                         <a href="mailto:yourmail@email.com">enquires@niwa.gov.ng</a>
+                                                         <a href="mailto:enquires@niwa.gov.ng">enquires@niwa.gov.ng</a>
                                                      </p>
                                                  </li>
                                              </ul>
@@ -51,7 +51,7 @@
                                              </div>
 
                                              <div class="btn-box">
-                                                 <a href="https://eris.niwa.gov.ng/" target="_blank">Register on ERIS<span
+                                                 <a href="https://http://express.eniwa.com.ng/register/" target="_blank">Register on NIWA Express<span
                                                          class="icon-right-arrow"></span></a>
                                              </div>
                                          </div>
@@ -64,47 +64,48 @@
                                      <div class="navbar-wrap main-menu">
                                          <ul class="navigation">
                                              <li><a href="{{route('/')}}">Home</a></li>
-                                             <li><a href="{{route('about')}}">Services</a></li>
+                                             {{-- <li><a href="{{route('about')}}">Services</a></li> --}}
+                                             <li><a href="#">Services</a></li>
                                              <li class="menu-item-has-children"><a href="#">About Us</a>
                                                  <ul class="sub-menu">
-                                                     <li><a href="services.html">About Us</a></li>
-                                                     <li><a href="road-transport.html">Overview</a>
+                                                     <li><a href="#">About Us</a></li>
+                                                     <li><a href="#">Overview</a>
                                                      </li>
-                                                     <li><a href="air-transport.html">Mandate</a>
+                                                     <li><a href="#">Mandate</a>
                                                      </li>
-                                                     <li><a href="cargo-transport.html">Management</a></li>
-                                                     <li><a href="ocean-freight.html">Anti-Corruption And Transparency Unit (ACTU)</a>
+                                                     <li><a href="#">Management</a></li>
+                                                     <li><a href="#">Anti-Corruption And Transparency Unit (ACTU)</a>
                                                      </li>
-                                                     <li><a href="rail-transport.html">SERVICOM</a>
+                                                     <li><a href="#">SERVICOM</a>
                                                      </li>
                                                     <!-- <li><a href="warehousing.html">Warehousing</a></li> -->
                                                  </ul>
                                              </li>
                                              <li class="menu-item-has-children"><a href="#">Multimedia</a>
                                                  <ul class="sub-menu">
-                                                     <li><a href="team.html">News</a></li>
-                                                     <li class="menu-item-has-children"><a href="team-details.html">Resources</a>
+                                                     <li><a href="#">News</a></li>
+                                                     <li class="menu-item-has-children"><a href="#">Resources</a>
                                                      <ul class="sub-menu">
-                                                     <li><a href="projects.html">Publications</a></li>
-                                                     <li><a href="projects.html">Nigerian Waterways</a></li>
-                                                     <li><a href="projects.html">FAQ</a></li>
+                                                     <li><a href="#">Publications</a></li>
+                                                     <li><a href="#">Nigerian Waterways</a></li>
+                                                     <li><a href="#">FAQ</a></li>
                                                      </ul>
                                                      </li>
-                                                     <li><a href="projects.html">Projects</a></li>
-                                                     <li><a href="project-details.html">Gallery</a></li>
+                                                     <li><a href="#">Projects</a></li>
+                                                     <li><a href="#">Gallery</a></li>
                                                     <!-- <li><a href="error.html">404</a></li> -->
                                                  </ul>
                                              </li>
                                              <li class="menu-item-has-children"><a href="#">Licenses & Permits</a>
                                                  <ul class="sub-menu">
-                                                     <li><a href="blog.html">Boat & Vessel</a></li>
-                                                     <li><a href="blog-standard.html">Registration</a>
+                                                     <li><a href="#">Boat & Vessel</a></li>
+                                                     <li><a href="#">Registration</a>
                                                      </li>
                                                     <!-- <li><a href="blog-details.html">Blog Details</a>
                                                      </li> -->
                                                  </ul>
                                              </li>
-                                             <li><a href="contact.html">Contact Us</a></li>
+                                             <li><a href="#">Contact Us</a></li>
                                          </ul>
                                      </div>
                                  </div>
@@ -136,7 +137,7 @@
                                              <span class="icon-out-call"></span>
                                          </div>
                                          <div class="text">
-                                             <p><a href="tel:123456789">+70 264 566 579</a></p>
+                                             <p><a href="tel:+2349131655053">+234 913 165 5053</a></p>
                                          </div>
                                      </div>
                                  </div>
@@ -158,7 +159,7 @@
                      </div>
                      <div class="contact-info">
                          <div class="icon-box"><span class="icon-telephone-handle-silhouette"></span></div>
-                         <p><a href="tel:123456789">(629) 555-0129</a></p>
+                         <p><a href="tel:+2349131655053">+234 913 1655 053</a></p>
                      </div>
                      <div class="social-links">
                          <ul class="clearfix list-wrap">
