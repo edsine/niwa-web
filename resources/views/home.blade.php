@@ -17,24 +17,28 @@
                         <div class="shape4"><img class="float-bob-x" src="assets/img/shape/slider-v2-shape4.png" alt="">
                         </div>
                         <div class="big-title">
-                            <h2>Translo</h2>
+                            <h2>National Inland Waterways Authority</h2>
                         </div>
                         <div class="container">
                             <div class="main-slider-two__single">
                                 <div class="main-slider-two__content">
                                     <div class="sub-title">
-                                        <p>Logistics & Supply Chain Solutions</p>
+                                        <p>National Inland Waterways Authority</p>
                                     </div>
                                     <div class="title">
-                                        <h2>Fast and Safety <br> World wide Service <br> <span>Provider</span> </h2>
+                                        <h2>Electronic Register & information System (ERIS)</h2> <!--<br>  <span>Provider</span> -->
                                     </div>
                                     <div class="text">
-                                        <p>With more than 30 years of experience in the logistics industry <br> bibendum
-                                            auctor nisi elit more consequat ipsum.</p>
+                                        <h4>Welcome to the Electronic Register Information System (ERIS). A platform for vessel e-registration and management</h4>
                                     </div>
                                     <div class="btn-box">
                                         <a class="thm-btn" href="#">
-                                            <span class="txt">Calculate Package</span> <i class="icon-right-arrow"></i>
+                                            <span class="txt">Fresh Application</span> <i class="icon-right-arrow"></i>
+                                        </a>
+                                    </div>
+                                    <div class="btn-box">
+                                        <a class="thm-btn" href="#">
+                                            <span class="txt">Continue Registration</span> <i class="icon-right-arrow"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -53,26 +57,25 @@
                         <div class="shape4"><img class="float-bob-x" src="assets/img/shape/slider-v2-shape4.png" alt="">
                         </div>
                         <div class="big-title">
-                            <h2>Translo</h2>
+                            <h2>National Inland Waterways Authority</h2>
                         </div>
                         <div class="container">
                             <div class="main-slider-two__single">
                                 <div class="main-slider-two__content">
                                     <div class="sub-title">
-                                        <p>Logistics & Supply Chain Solutions</p>
+                                        <p>National Inland Waterways Authority</p>
                                     </div>
                                     <div class="title">
-                                        <h2>Fast and Safety <br> World wide Service <br> <span>Provider</span> </h2>
+                                        <h2>Harnessing the Potentials of Nigeria's Waterways </h2>
                                     </div>
                                     <div class="text">
-                                        <p>With more than 30 years of experience in the logistics industry <br> bibendum
-                                            auctor nisi elit more consequat ipsum.</p>
+                                        <p>Nigeria has about 10,000 kilometers of waterways that can provide all year round navigation for transportation of bulk cargo and passengers.</p>
                                     </div>
-                                    <div class="btn-box">
+                                    <!--<div class="btn-box">
                                         <a class="thm-btn" href="#">
                                             <span class="txt">Calculate Package</span> <i class="icon-right-arrow"></i>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -89,26 +92,25 @@
                         <div class="shape4"><img class="float-bob-x" src="assets/img/shape/slider-v2-shape4.png" alt="">
                         </div>
                         <div class="big-title">
-                            <h2>Translo</h2>
+                            <h2>National Inland Waterways Authority</h2>
                         </div>
                         <div class="container">
                             <div class="main-slider-two__single">
                                 <div class="main-slider-two__content">
                                     <div class="sub-title">
-                                        <p>Logistics & Supply Chain Solutions</p>
+                                        <p>National Inland Waterways Authority</p>
                                     </div>
                                     <div class="title">
-                                        <h2>Fast and Safety <br> World wide Service <br> <span>Provider</span> </h2>
+                                        <h2>Over 3,000Km of Navigable Waterways </h2>
                                     </div>
                                     <div class="text">
-                                        <p>With more than 30 years of experience in the logistics industry <br> bibendum
-                                            auctor nisi elit more consequat ipsum.</p>
+                                        <p>28 of Nigeria's 36 States can be accessed through water, linked to five neighbouring countries (Benin Republic, Equitorial Guinea, Cameroon, Chad and Niger)</p>
                                     </div>
-                                    <div class="btn-box">
+                                    <!--<div class="btn-box">
                                         <a class="thm-btn" href="#">
                                             <span class="txt">Calculate Package</span> <i class="icon-right-arrow"></i>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -131,18 +133,17 @@
                             <div class="main-slider-two__single">
                                 <div class="main-slider-two__content">
                                     <div class="sub-title">
-                                        <p>Logistics & Supply Chain Solutions</p>
+                                        <p>National Inland Waterways Authority</p>
                                     </div>
                                     <div class="title">
-                                        <h2>Fast and Safety <br> World wide Service <br> <span>Provider</span> </h2>
+                                        <h2>Have a Boat or Vessel? </h2>
                                     </div>
                                     <div class="text">
-                                        <p>With more than 30 years of experience in the logistics industry <br> bibendum
-                                            auctor nisi elit more consequat ipsum.</p>
+                                        <p>Registering a boat is required by law much like with a car and the rules and guidelines for how this process is done and what kind of watercraft must be registered are dictated by NIWA..</p>
                                     </div>
                                     <div class="btn-box">
                                         <a class="thm-btn" href="#">
-                                            <span class="txt">Calculate Package</span> <i class="icon-right-arrow"></i>
+                                            <span class="txt">REGISTER NOW</span> <i class="icon-right-arrow"></i>
                                         </a>
                                     </div>
                                 </div>
@@ -225,16 +226,14 @@
                         <div class="about-two__content">
                             <div class="sec-title-two">
                                 <div class="sub-title">
-                                    <h5>About Company</h5>
+                                    <h5>About Us</h5>
                                 </div>
-                                <h2>Digital & Trusted Transport <br>
-                                    Logistic Company</h2>
+                                <h2>National Inland Waterways Authority <br>
+                                    NIWA</h2>
                             </div>
 
                             <div class="about-two__content-text">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod of tempor
-                                    incididunt ut labore et dolore magna aliqua. Quis ipsum suspend ultrices gravida
-                                    risus commodo viverra maecenas.</p>
+                                <p>The National Inland Waterways Authority (NIWA), hitherto Inland Waterways Department (IWD) of the Federal Ministry of Transport, metamorphosed into an Authority vide an act of the National Assembly, CAP 47, Laws of the Federation of Nigeria (LFN), 2004 (Decree No. 13 of 1997), established with the primary responsibility to improve and develop Nigeria’s inland waterways for navigation.</p>
                             </div>
 
                             <div class="about-two__content-list">
@@ -243,15 +242,25 @@
                                         <div class="icon-box">
                                             <span class="icon-check-marked-1"></span>
                                         </div>
-                                        <p>Day-to-day fleet management</p>
+                                        <p>Objectives</p>
                                     </li>
-
+                                  <li>improve and develop inland waterways for navigation,</li>
+                           <li>provide an alternative mode of transportation for the evacuation of economic goods and persons and<li>
+                            <li>execute the objectives of the national transport policy as they concern inland waterways</li>
                                     <li>
                                         <div class="icon-box">
                                             <span class="icon-check-marked-1"></span>
                                         </div>
-                                        <p>Day-to-day fleet management</p>
+                                        <p>Our Vision</p>
                                     </li>
+                                    <p>To make Nigeria the leader in inland water Transportation, development and management in Africa.</p>
+                                    <li>
+                                        <div class="icon-box">
+                                            <span class="icon-check-marked-1"></span>
+                                        </div>
+                                        <p>Our Mission</p>
+                                    </li>
+                                    <p>To provide regulatory, economical and operational leadership in the Nation’s Inland Waterways system and develop infrastructural facilities for an efficient intermodal transportation system in line with global best practices that is safe, seamless and affordable.</p>
                                 </ul>
                             </div>
 
@@ -267,8 +276,8 @@
                                     </div>
 
                                     <div class="text-box">
-                                        <h3>Rebecca Tylor</h3>
-                                        <p>CEO - Founder</p>
+                                        <h3>Bola Oyebamiji, FCIB</h3>
+                                        <p>Managing Director/CEO</p>
                                     </div>
                                 </div>
                             </div>
@@ -293,10 +302,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="250000"></span>
+                                        data-count="9"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Parcels Shipped Safely</p>
+                                    <p>Rivers</p>
                                 </div>
                             </div>
                         </div>
@@ -311,10 +320,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="95000"></span>
+                                        data-count="90"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Cities Served Worldwide</p>
+                                    <p>Local Ports Served Nationwide</p>
                                 </div>
                             </div>
                         </div>
@@ -329,10 +338,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="2560"></span>
+                                        data-count="13"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Satisfied Clients</p>
+                                    <p>Creeks</p>
                                 </div>
                             </div>
                         </div>
@@ -347,10 +356,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="1200"></span>
+                                        data-count="19"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Company We Help</p>
+                                    <p>Lakes</p>
                                 </div>
                             </div>
                         </div>
@@ -371,7 +380,7 @@
                     <div class="sub-title">
                         <h5>Our Services</h5>
                     </div>
-                    <h2>We Provide all Kinds of <br> Logistics Service</h2>
+                    <h2>We Provide all Kinds of <br>Services Related to Transportation by Water</h2>
                 </div>
 
                 <div class="swiper-container services-two__slider">
@@ -388,8 +397,8 @@
 
                                 <div class="services-two__single-content">
                                     <div class="services-two__single-content-inner">
-                                        <h3><a href="road-transport.html">Air Freight</a></h3>
-                                        <p>Consectetur bibendum ipsum tincidunt Proin suscipit</p>
+                                        <h3><a href="road-transport.html">REGULATORY</a></h3>
+                                        <p>We issue licenses for inland navigation, piers, jetties and dockyards; examine and survey inland watercraft and shipyard operators, grant permit and licenses for sand dredging, pipeline construction, dredging of slot and approve designs and construction of inland river crafts</p>
                                         <div class="count-box">
                                             01
                                         </div>
@@ -416,8 +425,8 @@
 
                                 <div class="services-two__single-content">
                                     <div class="services-two__single-content-inner">
-                                        <h3><a href="road-transport.html">Ocean Freight</a></h3>
-                                        <p>The point of using Lorem Ipsum is that it has a more</p>
+                                        <h3><a href="road-transport.html">ENGINEERING</a></h3>
+                                        <p>Our wide range of engineering services include construction of inland river-ports and jetties; engineering design of river ports. We also undertake in capital and maintenance dredging.</p>
                                         <div class="count-box">
                                             02
                                         </div>
@@ -444,8 +453,8 @@
 
                                 <div class="services-two__single-content">
                                     <div class="services-two__single-content-inner">
-                                        <h3><a href="road-transport.html">Cargo Container</a></h3>
-                                        <p>All the Lorem Ipsum generators on the Internet tend</p>
+                                        <h3><a href="road-transport.html">MARINE</a></h3>
+                                        <p>As part of our marine services, we remove and receive derelicts wrecks and other obstructions from inland waterways; clear hyacinth and other harmful weeds. We engage in boat construction/repair and other dockyard services.</p>
                                         <div class="count-box">
                                             03
                                         </div>
@@ -472,8 +481,8 @@
 
                                 <div class="services-two__single-content">
                                     <div class="services-two__single-content-inner">
-                                        <h3><a href="road-transport.html">Road Transport</a></h3>
-                                        <p>pursue pleasure rationally painful consequencesare extremely</p>
+                                        <h3><a href="road-transport.html">TRANSPORT</a></h3>
+                                        <p>NIWA is equipped with a number of vessels enabling us to operate ferry services (for economic goods and passengers) and run cruise boats (for tourism and leisure).</p>
                                         <div class="count-box">
                                             04
                                         </div>
@@ -487,9 +496,65 @@
                             </div>
                             <!--End Services Two Single-->
                         </div>
-                    </div>
+                    
+                <div class="swiper-slide">
+                            <!--Start Services Two Single-->
+                            <div class="services-two__single">
+                                <div class="services-two__single-img">
+                                    <div class="inner">
+                                        <img src="assets/img/service/service-v2-img2.jpg" alt="">
+                                    </div>
+                                    <div class="number-box">05</div>
+                                </div>
 
+                                <div class="services-two__single-content">
+                                    <div class="services-two__single-content-inner">
+                                        <h3><a href="road-transport.html">SURVEY</a></h3>
+                                        <p>We carry out hydrological and hydrographic surveys, river chart production, cartography, river mapping and aerial survey.</p>
+                                        <div class="count-box">
+                                            05
+                                        </div>
+                                    </div>
+                                    <div class="btn-box">
+                                        <a class="thm-btn" href="road-transport.html">
+                                            <span class="txt">Read More</span> <i class="icon-right-arrow"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Services Two Single-->
+                        </div>
+
+                        <div class="swiper-slide">
+                            <!--Start Services Two Single-->
+                            <div class="services-two__single">
+                                <div class="services-two__single-img">
+                                    <div class="inner">
+                                        <img src="assets/img/service/service-v2-img2.jpg" alt="">
+                                    </div>
+                                    <div class="number-box">06</div>
+                                </div>
+
+                                <div class="services-two__single-content">
+                                    <div class="services-two__single-content-inner">
+                                        <h3><a href="road-transport.html">ENVIRONMENT</a></h3>
+                                        <p>We carry out environmental impact assessment of navigation and other dredging activities within the inland water and its right of ways.</p>
+                                        <div class="count-box">
+                                            06
+                                        </div>
+                                    </div>
+                                    <div class="btn-box">
+                                        <a class="thm-btn" href="road-transport.html">
+                                            <span class="txt">Read More</span> <i class="icon-right-arrow"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Services Two Single-->
+                        </div>
+                        </div>
                 </div>
+
 
                 <!-- If we need navigation buttons -->
                 <div class="services-two__wrap">
@@ -523,9 +588,9 @@
                         <div class="company-benefit-one__content">
                             <div class="sec-title-two">
                                 <div class="sub-title">
-                                    <h5>Company Benefit</h5>
+                                    <h5>NEWSLETTER</h5>
                                 </div>
-                                <h2>Why do You Like Translo?</h2>
+                                <h2>Anti-Corruption and Transparency Unit (ACTU)</h2>
                             </div>
 
                             <div class="company-benefit-one__content-text">
@@ -542,9 +607,8 @@
                                     </div>
 
                                     <div class="content-box">
-                                        <h3>Right Time Delivery</h3>
-                                        <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia
-                                            deserunt.</p>
+                                        <h3>Mandate of ACTU</h3>
+                                        <p>The ACTU was created to serve as an extension of ICPC in the MDAs through an approval by government, vide the Head of the Civil Service of the Federation circular Ref. No. OHCSF/MSO/192/94 dated 2nd October 2001, and another circular Ref. No. OE/MS/MSO/196/S1/7 dated 16th April 2003. The underlying reason for the establishment of the unit was to complement and strengthen the efforts of the Commission in the areas of monitoring, reporting and preventing corruption in the MDAs.</p>
                                     </div>
                                 </li>
 
@@ -556,9 +620,8 @@
                                     </div>
 
                                     <div class="content-box">
-                                        <h3>24/7 Online Support</h3>
-                                        <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia
-                                            deserunt.</p>
+                                        <h3>Powers and Functions of ACTU</h3>
+                                        <p>ACTUs derive their powers from the provisions of Section 6(a) – (t) of the corrupt practices and other Related Offences Act, 2000, which empowers them to serve as compliance and ethics officers, with the sole aim of educating and enlightening their respective MDAs on the need for adherence to rules, regulations and upholding of ethical practices in the workplace. ACTUs are also empowered to carry out preliminary and administrative investigations into cases of misconduct and refer to appropriate quarters as spelt out in the ACTU Standing Orders.</p>
                                     </div>
                                 </li>
 
@@ -586,24 +649,24 @@
                     <div class="col-xl-6">
                         <div class="company-benefit-one__form">
                             <div class="title-box">
-                                <h2>Request Quick Quote</h2>
+                                <h2>Complaint Form</h2>
                             </div>
 
                             <form method="post" action="index.html">
                                 <div class="company-benefit-one__distance-box">
-                                    <div class="title">
+                                   <!-- <div class="title">
                                         <h3>Distance:</h3>
                                     </div>
 
                                     <div class="range-slider-price" data-range-min="50" data-range-max="500"
                                         data-limit="500" data-start-min="50" data-start-max="300"
-                                        id="range-slider-price"></div>
+                                        id="range-slider-price"></div> -->
 
                                     <div class="form-group">
                                         <div class="inner">
-                                            <p><span id="min-value-rangeslider"></span>km</p>
+                                          <!--  <p><span id="min-value-rangeslider"></span>km</p>
                                             <span>-</span>
-                                            <p><span id="max-value-rangeslider"></span>km</p>
+                                            <p><span id="max-value-rangeslider"></span>km</p> -->
                                         </div>
                                     </div>
                                 </div>
@@ -638,10 +701,10 @@
                                         <div class="form-group">
                                             <div class="select-box">
                                                 <select class="selectmenu wide">
-                                                    <option selected="selected">Freight Ttpe</option>
-                                                    <option>Freight Ttpe 1</option>
-                                                    <option>Freight Ttpe 2</option>
-                                                    <option>Freight Ttpe 3</option>
+                                                    <option selected="selected">Gender</option>
+                                                    <option>Male</option>
+                                                    <option>Female</option>
+                                                    <option>Prefer Not to Say</option>
                                                 </select>
                                             </div>
                                         </div>
@@ -651,10 +714,10 @@
                                         <div class="form-group">
                                             <div class="select-box">
                                                 <select class="selectmenu wide">
-                                                    <option selected="selected">Load</option>
-                                                    <option>Load 1</option>
-                                                    <option>Load 2</option>
-                                                    <option>Load 3</option>
+                                                    <option selected="selected">Complaint Nature</option>
+                                                    <option>Type 1</option>
+                                                    <option>Type 2</option>
+                                                    <option>Type 3</option>
                                                 </select>
                                             </div>
                                         </div>
@@ -664,7 +727,7 @@
                                 <div class="row">
                                     <div class="col-xl-12">
                                         <div class="form-group">
-                                            <textarea placeholder="Wright your massage"></textarea>
+                                            <textarea placeholder="Write your massage"></textarea>
                                         </div>
 
                                     </div>
@@ -675,7 +738,7 @@
                                         <div class="button-box">
                                             <button class="thm-btn" type="submit" data-loading-text="Please wait...">
                                                 <span class="txt">
-                                                    Sand Request
+                                                    Send Complaint
                                                 </span>
                                             </button>
                                         </div>
@@ -1193,7 +1256,7 @@
                         <div class="sub-title">
                             <h5>Latest Project</h5>
                         </div>
-                        <h2>Transporting Across The World</h2>
+                        <h2>Gallery</h2>
                     </div>
 
                     <div class="btn-box">
@@ -1329,7 +1392,7 @@
                     <div class="sub-title">
                         <h5>Our Stuff</h5>
                     </div>
-                    <h2>Meet With Expert Team</h2>
+                    <h2>The Management</h2>
                 </div>
 
                 <div class="swiper-container team-two__slider">
@@ -1351,8 +1414,8 @@
                                     </div>
                                 </div>
                                 <div class="team-two__single-content text-center">
-                                    <h3><a href="team-details.html">Rebecca Tylor</a></h3>
-                                    <p>Cargo Head</p>
+                                    <h3><a href="team-details.html">Bola Oyebamiji FCIB</a></h3>
+                                    <p>MD/CEO</p>
                                 </div>
 
                                 <div class="team-two__single-number">
@@ -1388,8 +1451,8 @@
                                     </div>
                                 </div>
                                 <div class="team-two__single-content text-center">
-                                    <h3><a href="team-details.html">Harvey Tylor</a></h3>
-                                    <p>Senior Worker</p>
+                                    <h3><a href="team-details.html">Surv. Olawale J. Adetola</a></h3>
+                                    <p>GM Business Development & Investment</p>
                                 </div>
 
                                 <div class="team-two__single-number">
@@ -1425,8 +1488,8 @@
                                     </div>
                                 </div>
                                 <div class="team-two__single-content text-center">
-                                    <h3><a href="team-details.html">Rebecca Tylor</a></h3>
-                                    <p>CEO - Founder</p>
+                                    <h3><a href="team-details.html">Engr. Fibersima Tamunokobie</a></h3>
+                                    <p>GM Area Offices Co-ordination</p>
                                 </div>
 
                                 <div class="team-two__single-number">
@@ -1490,7 +1553,7 @@
                             <!-- Start Google Map Faq Single-->
                             <li class="accrodion active">
                                 <div class="accrodion-title">
-                                    <h2>New York Office</h2>
+                                    <h2>Kogi State (Area Office) </h2>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
@@ -1499,7 +1562,7 @@
                                                 <div class="icon-box">
                                                     <span class="icon-pin"></span>
                                                 </div>
-                                                <p>Jones Street, New York, USA</p>
+                                                <p>P.M.B 1022 Marine road, Naval Base, Lokoja.</p>
                                             </li>
 
                                             <li>
@@ -1524,7 +1587,7 @@
                             <!-- Start Google Map Faq Single-->
                             <li class="accrodion">
                                 <div class="accrodion-title">
-                                    <h2>Canada Office</h2>
+                                    <h2>Abuja (Liason Office) </h2>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
@@ -1533,7 +1596,7 @@
                                                 <div class="icon-box">
                                                     <span class="icon-pin"></span>
                                                 </div>
-                                                <p>Jones Street, New York, USA</p>
+                                                <p>Shippers Plaza, off Grand Ibro Hotel Wuse, Zone 5</p>
                                             </li>
 
                                             <li>
@@ -1558,7 +1621,7 @@
                             <!-- Start Google Map Faq Single-->
                             <li class="accrodion">
                                 <div class="accrodion-title">
-                                    <h2>London Office</h2>
+                                    <h2>Lagos Office</h2>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
@@ -1567,7 +1630,7 @@
                                                 <div class="icon-box">
                                                     <span class="icon-pin"></span>
                                                 </div>
-                                                <p>Jones Street, New York, USA</p>
+                                                <p>Ferry Terminal Building Outer Marina Road, CMS bus Stop</p>
                                             </li>
 
                                             <li>

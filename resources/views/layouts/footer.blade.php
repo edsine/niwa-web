@@ -15,8 +15,7 @@
                                         alt="Logo" style="background: #ffffff;"></a>
                             </div>
                             <div class="footer-widget__about-inner">
-                                <p class="text1">Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                    cillum dolore eu fugiat nulla pariatur. Excepteur</p>
+                                <p class="text1">Kogi State (Area Office)P.M.B 1022 Marine road, Naval Base,Lokoja. <br>Abuja (Liason Office) Shippers Plaza, off Grand Ibro Hotel Wuse, Zone 5</p>
                                 <p class="text2">We are available</p>
                                 <p class="text3">MOn-Sat: 10:00am to 07:30pm</p>
 
@@ -40,12 +39,13 @@
 
                             <div class="footer-widget__links-box">
                                 <ul>
-                                    <li><a href="about.html">Mission & Vision</a></li>
-                                    <li><a href="about.html">Get Pricing Plan</a></li>
-                                    <li><a href="team.html">Meet The Team</a></li>
-                                    <li><a href="about.html">Our Clients</a></li>
-                                    <li><a href="about.html">Available Positions</a></li>
-                                    <li><a href="about.html">Job Application</a></li>
+                                    <li><a href="about.html">FAQ</a></li>
+                                    <li><a href="about.html">Careers</a></li>
+                                    <li><a href="team.html">Nigerian Waterways</a></li>
+                                    <li><a href="about.html">Publications</a></li>
+                                    <li><a href="about.html">Overview</a></li>
+                                    <li><a href="about.html">View Registration</a></li>
+                                    <li><a href="about.html">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -61,12 +61,12 @@
 
                             <div class="footer-widget__links-box">
                                 <ul>
-                                    <li><a href="road-transport.html">Air Freight</a></li>
-                                    <li><a href="road-transport.html">Ocean Freight</a></li>
-                                    <li><a href="road-transport.html">Railway Freight</a></li>
-                                    <li><a href="road-transport.html">Warehousing</a></li>
-                                    <li><a href="road-transport.html">Packaging</a></li>
-                                    <li><a href="road-transport.html">Distribution</a></li>
+                                    <li><a href="road-transport.html">Regulatory</a></li>
+                                    <li><a href="road-transport.html">Engineering</a></li>
+                                    <li><a href="road-transport.html">Marine</a></li>
+                                    <li><a href="road-transport.html">Transport</a></li>
+                                    <li><a href="road-transport.html">Survey</a></li>
+                                    <li><a href="road-transport.html">Environment</a></li>
                                 </ul>
                             </div>
                         </div>
