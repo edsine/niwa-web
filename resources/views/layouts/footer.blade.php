@@ -15,9 +15,9 @@
                                         alt="Logo" style="background: #ffffff;"></a>
                             </div>
                             <div class="footer-widget__about-inner">
-                                <p class="text1">Kogi State (Area Office)P.M.B 1022 Marine road, Naval Base,Lokoja. <br>Abuja (Liason Office) Shippers Plaza, off Grand Ibro Hotel Wuse, Zone 5</p>
+                                <p class="text1">Kogi State (Head Office)Adankolo New Layout, PMB 1004, Lokoja. <br>Abuja (Liason Office) Shippers Plaza, off Grand Ibro Hotel Wuse, Zone 5</p>
                                 <p class="text2">We are available</p>
-                                <p class="text3">MOn-Sat: 10:00am to 07:30pm</p>
+                                <p class="text3">Mon-Fri: 09:00am to 06:30pm WAT (UTC +1)</p>
 
                                 <div class="footer-social-link">
                                     <a href="#"><span class="icon-facebook"></span></a>

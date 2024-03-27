@@ -3,7 +3,7 @@
 @section('content')
          <!--Start Page Header-->
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/img/background/page-header-bg.jpg)">
+            <div class="page-header__bg" style="background-image: url(assets//img/background/niwa-cards-3.jpg)">
             </div>
             <div class="container">
                 <div class="page-header__inner text-center">
@@ -33,10 +33,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="250000"></span>
+                                        data-count="9"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Parcels Shipped Safely</p>
+                                    <p>Rivers</p>
                                 </div>
                             </div>
                         </div>
@@ -52,10 +52,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="95000"></span>
+                                        data-count="90"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Cities Served Worldwide</p>
+                                    <p>Local Ports Served Nationwide</p>
                                 </div>
                             </div>
                         </div>
@@ -71,10 +71,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="2560"></span>
+                                        data-count="13"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Satisfied Clients</p>
+                                    <p>Creeks</p>
                                 </div>
                             </div>
                         </div>
@@ -90,10 +90,10 @@
                             </div>
                             <div class="fact-counter-two__single-inner">
                                 <h2 class="count"><span class="plus">+</span><span class="odometer"
-                                        data-count="1200"></span>
+                                        data-count="19"></span>
                                 </h2>
                                 <div class="text">
-                                    <p>Company We Help</p>
+                                    <p>Lakes</p>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@
 
         <!--Start Services Three-->
         <section class="services-three">
-            <div class="services-three__bg" style="background-image: url(assets//img/background/services-v3-bg.jpg);">
+            <div class="services-three__bg" style="background-image: url(assets/img/background/niwa-cards-17.jpg);">
             </div>
             <div class="container">
                 <div class="services-three__top">
@@ -117,7 +117,7 @@
                             </div>
                             <h5>Our Services</h5>
                         </div>
-                        <h2>We Provide all Kinds of <br> Logistics Service</h2>
+                        <h2>We Provide all Kinds of <br> Services Related to Transportation by Water</h2>
                     </div>
 
                     <div class="btn-box">
@@ -174,7 +174,7 @@
                             <div class="services-three__single">
                                 <div class="services-three__single-img">
                                     <div class="inner">
-                                        <img src="assets/img/service/service-v3-img1.jpg" alt="">
+                                        <img src="assets/img/service/niwa-cards-1.jpg" alt="">
                                         <div class="icon-box">
                                             <span class="icon-road-transport t5"></span>
                                         </div>
@@ -183,8 +183,11 @@
 
                                 <div class="services-three__single-content">
                                     <div class="services-three__single-content-inner">
-                                        <h2><a href="road-transport.html">Road Transport</a></h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod</p>
+                                        <h2><a href="road-transport.html">Regulatory</a></h2>
+                                        <p>We issue licenses for inland navigation, piers, jetties and dockyards; examine and
+                                        survey inland watercraft and shipyard operators, grant permit and licenses for sand
+                                        dredging, pipeline construction, dredging of slot and approve designs and
+                                        construction of inland river crafts</p>
                                         <div class="count-box">
                                             01
                                         </div>
@@ -207,7 +210,7 @@
                             <div class="services-three__single">
                                 <div class="services-three__single-img">
                                     <div class="inner">
-                                        <img src="assets/img/service/service-v3-img2.jpg" alt="">
+                                        <img src="assets/img/service/niwa-cards-2.jpg" alt="">
                                         <div class="icon-box">
                                             <span class="icon-ocean-freight1"></span>
                                         </div>
@@ -216,8 +219,10 @@
 
                                 <div class="services-three__single-content">
                                     <div class="services-three__single-content-inner">
-                                        <h2><a href="road-transport.html">Ocean Freight</a></h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod</p>
+                                        <h2><a href="road-transport.html">Engineering</a></h2>
+                                        <p>Our wide range of engineering services include construction of inland river-ports and
+                                        jetties; engineering design of river ports. We also undertake in capital and
+                                        maintenance dredging.</p>
                                         <div class="count-box">
                                             02
                                         </div>
@@ -241,7 +246,7 @@
                             <div class="services-three__single">
                                 <div class="services-three__single-img">
                                     <div class="inner">
-                                        <img src="assets/img/service/service-v3-img3.jpg" alt="">
+                                        <img src="assets/img/service/niwa-cards-4.jpg" alt="">
                                         <div class="icon-box">
                                             <span class="icon-experience"></span>
                                         </div>
@@ -250,8 +255,10 @@
 
                                 <div class="services-three__single-content">
                                     <div class="services-three__single-content-inner">
-                                        <h2><a href="road-transport.html">Cargo Container</a></h2>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing sed eiusmod</p>
+                                        <h2><a href="road-transport.html">Marine</a></h2>
+                                        <p>As part of our marine services, we remove and receive derelicts wrecks and other
+                                        obstructions from inland waterways; clear hyacinth and other harmful weeds. We
+                                        engage in boat construction/repair and other dockyard services./p>
                                         <div class="count-box">
                                             03
                                         </div>
@@ -261,6 +268,108 @@
 
                                             <div class="number-box">
                                                 03
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Services Three Single-->
+                        </div>
+                        
+                        <div class="swiper-slide">
+                            <!--Start Services Three Single-->
+                            <div class="services-three__single">
+                                <div class="services-three__single-img">
+                                    <div class="inner">
+                                        <img src="assets/img/service/niwa-cards-8.jpg" alt="">
+                                        <div class="icon-box">
+                                            <span class="icon-ocean-freight1"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="services-three__single-content">
+                                    <div class="services-three__single-content-inner">
+                                        <h2><a href="road-transport.html">Transport</a></h2>
+                                        <p>NIWA is equipped with a number of vessels enabling us to operate ferry services (for
+                                        economic goods and passengers) and run cruise boats (for tourism and leisure).</p>
+                                        <div class="count-box">
+                                            04
+                                        </div>
+                                        <div class="btn-box">
+                                            <a href="road-transport.html">Read More <i
+                                                    class="icon-right-arrow-5"></i></a>
+
+                                            <div class="number-box">
+                                                04
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Services Three Single-->
+                        </div>
+                        
+                        <div class="swiper-slide">
+                            <!--Start Services Three Single-->
+                            <div class="services-three__single">
+                                <div class="services-three__single-img">
+                                    <div class="inner">
+                                        <img src="assets/img/service/niwa-cards-5.jpg" alt="">
+                                        <div class="icon-box">
+                                            <span class="icon-ocean-freight1"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="services-three__single-content">
+                                    <div class="services-three__single-content-inner">
+                                        <h2><a href="road-transport.html">Survey</a></h2>
+                                        <p>We carry out hydrological and hydrographic surveys, river chart production,
+                                        cartography, river mapping and aerial survey.</p>
+                                        <div class="count-box">
+                                            05
+                                        </div>
+                                        <div class="btn-box">
+                                            <a href="road-transport.html">Read More <i
+                                                    class="icon-right-arrow-5"></i></a>
+
+                                            <div class="number-box">
+                                                05
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!--End Services Three Single-->
+                        </div>
+                        
+                        <div class="swiper-slide">
+                            <!--Start Services Three Single-->
+                            <div class="services-three__single">
+                                <div class="services-three__single-img">
+                                    <div class="inner">
+                                        <img src="assets/img/service/niwa-cards-7.jpg" alt="">
+                                        <div class="icon-box">
+                                            <span class="icon-ocean-freight1"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="services-three__single-content">
+                                    <div class="services-three__single-content-inner">
+                                        <h2><a href="road-transport.html">Environment</a></h2>
+                                        <p>We carry out environmental impact assessment of navigation and other dredging
+                                        activities within the inland water and its right of ways.</p>
+                                        <div class="count-box">
+                                            06
+                                        </div>
+                                        <div class="btn-box">
+                                            <a href="road-transport.html">Read More <i
+                                                    class="icon-right-arrow-5"></i></a>
+
+                                            <div class="number-box">
+                                                06
                                             </div>
                                         </div>
                                     </div>
@@ -287,12 +396,12 @@
                             </div>
                             <h5>Latest Project</h5>
                         </div>
-                        <h2>Transporting Across <br> The World</h2>
+                        <h2>Projects Completed <br> Since Establishment</h2>
                     </div>
 
                     <div class="btn-box">
                         <a class="thm-btn" href="project-details.html">
-                            <span class="txt">View All Project</span>
+                            <span class="txt">View All Projects</span>
                         </a>
                     </div>
                 </div>
@@ -345,7 +454,7 @@
                             <div class="project-three__single">
                                 <div class="project-three__single-img">
                                     <div class="inner">
-                                        <img src="assets/img/project/project-v3-img1.jpg" alt="">
+                                        <img src="assets\img\project\Onitsha-Port-Anambra-400x350.jpg" alt="">
                                         <div class="overlay-content">
                                             <div class="overlay-icon"><span class="icon-road-transport"></span></div>
                                             <div class="icon-box">
@@ -353,8 +462,8 @@
                                                         class="icon-right-arrow-5"></span></a>
                                             </div>
                                             <div class="text-box">
-                                                <p>Logistic</p>
-                                                <h2><a href="project-details.html">Road Freight <br> Solution</a></h2>
+                                                <p>Construction</p>
+                                                <h2><a href="project-details.html">Onistha <br> Port</a></h2>
                                             </div>
                                         </div>
                                     </div>
@@ -368,7 +477,7 @@
                             <div class="project-three__single">
                                 <div class="project-three__single-img">
                                     <div class="inner">
-                                        <img src="assets/img/project/project-v3-img2.jpg" alt="">
+                                        <img src="assets\img\project\baro-port-niwa-400x350.jpg" alt="">
                                         <div class="overlay-content">
                                             <div class="overlay-icon"><span class="icon-road-transport"></span></div>
                                             <div class="icon-box">
@@ -376,8 +485,8 @@
                                                         class="icon-right-arrow-5"></span></a>
                                             </div>
                                             <div class="text-box">
-                                                <p>Logistic</p>
-                                                <h2><a href="project-details.html">Road Freight <br> Solution</a></h2>
+                                                <p>Ports</p>
+                                                <h2><a href="project-details.html">Baro <br> Ports</a></h2>
                                             </div>
                                         </div>
                                     </div>
@@ -391,7 +500,7 @@
                             <div class="project-three__single">
                                 <div class="project-three__single-img">
                                     <div class="inner">
-                                        <img src="assets/img/project/project-v3-img3.jpg" alt="">
+                                        <img src="assets\img\project\dredger-400x350.jpg" alt="">
                                         <div class="overlay-content">
                                             <div class="overlay-icon"><span class="icon-road-transport"></span></div>
                                             <div class="icon-box">
@@ -399,8 +508,8 @@
                                                         class="icon-right-arrow-5"></span></a>
                                             </div>
                                             <div class="text-box">
-                                                <p>Logistic</p>
-                                                <h2><a href="project-details.html">Road Freight <br> Solution</a></h2>
+                                                <p>Dredging</p>
+                                                <h2><a href="project-details.html">Lower River  <br>Niger </a></h2>
                                             </div>
                                         </div>
                                     </div>
@@ -414,7 +523,7 @@
                             <div class="project-three__single">
                                 <div class="project-three__single-img">
                                     <div class="inner">
-                                        <img src="assets/img/project/project-v3-img4.jpg" alt="">
+                                        <img src="assets\img\project\Lagos-Dredging-400x350.jpg" alt="">
                                         <div class="overlay-content">
                                             <div class="overlay-icon"><span class="icon-road-transport"></span></div>
                                             <div class="icon-box">
@@ -422,8 +531,8 @@
                                                         class="icon-right-arrow-5"></span></a>
                                             </div>
                                             <div class="text-box">
-                                                <p>Logistic</p>
-                                                <h2><a href="project-details.html">Road Freight <br> Solution</a></h2>
+                                                <p>Dredging</p>
+                                                <h2><a href="project-details.html">Ajaokuta <br> </a></h2>
                                             </div>
                                         </div>
                                     </div>
@@ -453,12 +562,12 @@
                             </div>
                             <h5>Team</h5>
                         </div>
-                        <h2>Meet Our Staff</h2>
+                        <h2>Management</h2>
                     </div>
 
                     <div class="btn-box">
                         <a class="thm-btn" href="team-details.html">
-                            <span class="txt">Become a Member</span>
+                            <span class="txt">View All</span>
                         </a>
                     </div>
                 </div>
@@ -468,11 +577,11 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="team-three__single">
                             <div class="team-three__single-img">
-                                <img src="assets/img/team/team-v3-img1.jpg" alt="">
+                                <img src="assets//img/team/Bola-Oyebamiji-NIWA-MD-official-Photo-300x400.jpg" alt="">
                             </div>
                             <div class="team-three__single-content text-center">
-                                <h3><a href="team-details.html">Rebecca Tylor</a></h3>
-                                <p>CEO - Founder</p>
+                                <h3><a href="team-details.html">Bola Oyebamiji FCIB</a></h3>
+                                <p>MD/CEO</p>
                                 <div class="social-links">
                                     <a href="#"><span class="icon-facebook"></span></a>
                                     <a href="#"><span class="icon-twitter"></span></a>
@@ -488,11 +597,11 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInDown" data-wow-delay=".3s">
                         <div class="team-three__single">
                             <div class="team-three__single-img">
-                                <img src="assets/img/team/team-v3-img2.jpg" alt="">
+                                <img src="assets//img/team/Adetola-Olawale-James-Ag-MD-NIWA.jpg" alt="">
                             </div>
                             <div class="team-three__single-content text-center">
-                                <h3><a href="team-details.html">Harley Russle</a></h3>
-                                <p>Senior Worker</p>
+                                <h3><a href="team-details.html">Surv. Olawale J. Adetola</a></h3>
+                                <p>GM Business Development & Investment</p>
                                 <div class="social-links">
                                     <a href="#"><span class="icon-facebook"></span></a>
                                     <a href="#"><span class="icon-twitter"></span></a>
@@ -508,11 +617,11 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay=".3s">
                         <div class="team-three__single">
                             <div class="team-three__single-img">
-                                <img src="assets/img/team/team-v3-img3.jpg" alt="">
+                                <img src="assets//img/team/fiberesima-tammy-gm-ports.jpeg" alt="">
                             </div>
                             <div class="team-three__single-content text-center">
-                                <h3><a href="team-details.html">Helen Wilmore</a></h3>
-                                <p>Sr. Manager</p>
+                                <h3><a href="team-details.html">Engr. Fibersima Tamunokobie</a></h3>
+                                <p>GM Area Offices Co-ordination</p>
                                 <div class="social-links">
                                     <a href="#"><span class="icon-facebook"></span></a>
                                     <a href="#"><span class="icon-twitter"></span></a>
@@ -528,11 +637,11 @@
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInDown" data-wow-delay=".3s">
                         <div class="team-three__single">
                             <div class="team-three__single-img">
-                                <img src="assets/img/team/team-v3-img4.jpg" alt="">
+                                <img src="assets/img/about/Engr.-Fidelis-Agbahi-General-Manager-Ports-Services-scaled.jpg" alt="">
                             </div>
                             <div class="team-three__single-content text-center">
-                                <h3><a href="team-details.html">Jennifer Rivera</a></h3>
-                                <p>Cargo Head</p>
+                                <h3><a href="team-details.html">Agbahi Fidelis</a></h3>
+                                <p>GM Ports & Environmental Services</p>
                                 <div class="social-links">
                                     <a href="#"><span class="icon-facebook"></span></a>
                                     <a href="#"><span class="icon-twitter"></span></a>
@@ -548,324 +657,31 @@
         </section>
         <!--End Team Three-->
 
-        <!--Start Blog Three-->
-        <section class="blog-two blog-two--three">
-            <div class="blog-two--three__bg" style="background-image: url(assets/img/background/blog-v3-bg.jpg);"></div>
-            <div class="container">
-                <div class="sec-title-style3 text-center">
-                    <div class="sub-title center">
-                        <div class="icon">
-                            <img src="assets/img/icon/title-marker-2.png" alt="">
-                        </div>
-                        <h5>LATEST POST</h5>
+
+        <
+
+        <!--Start Cta Two-->
+    <section class="cta-two">
+        <div class="container">
+            <div class="cta-two__inner">
+                <div class="shape1"><img src="assets/img/shape/cta-v2-shape1.png" alt=""></div>
+                <div class="shape2"><img src="assets/img/shape/cta-v2-shape2.png" alt=""></div>
+                <div class="shape3 float-bob-x"><img src="assets/img/shape/cta-v2-shape3.png" alt=""></div>
+                <div class="cta-two__inner-box">
+                    <div class="title-box">
+                        <p>GEt in touch</p>
+                        <h2>Have a boat or vessel? <br> Registering a boat is required by law</h2>
                     </div>
-                    <h2>Get the latest news blog</h2>
-                </div>
 
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 50,
-                "slidesPerView": 3,
-                "loop": true,
-                "pagination": {
-                    "el": "#blog-two--three__pagination",
-                    "type": "bullets",
-                    "clickable": true
-                    },
-                "navigation": {
-                    "nextEl": "#team-one__swiper-button-next",
-                    "prevEl": "#team-one__swiper-button-prev"
-                },
-                "autoplay": { "delay": 5000 },
-                "breakpoints": {
-                    "0": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 1
-                    },
-                    "375": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 1
-                    },
-                    "575": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 1
-                    },
-                    "768": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 2
-                    },
-                    "992": {
-                        "spaceBetween": 30,
-                        "slidesPerView": 3
-                    },
-                    "1200": {
-                        "spaceBetween": 24,
-                        "slidesPerView": 3
-                    }
-                }
-            }'>
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <!--Start Blog Two Single-->
-                            <div class="blog-two__single">
-                                <div class="blog-two__single-img">
-                                    <div class="overlay-img__outer">
-                                        <div class="name">
-                                            <p>Harley Russle</p>
-                                        </div>
-                                        <div class="overlay-img">
-                                            <img src="assets/img/blog/blog-v3-img4.jpg" alt="#">
-                                        </div>
-                                    </div>
-                                    <div class="inner">
-                                        <img src="assets/img/blog/blog-v3-img1.jpg" alt="#">
-                                    </div>
-                                </div>
-
-                                <div class="blog-two__single-content">
-                                    <h2><a href="blog-details.html">How technology can help <br> redraw the supply</a>
-                                    </h2>
-                                    <ul class="meta-box">
-                                        <li><a href="#">Air Freight</a></li>
-                                        <li>-</li>
-                                        <li>November 13, 2023</li>
-                                    </ul>
-
-                                    <div class="btn-box">
-                                        <a href="blog-details.html">Read More <span
-                                                class="icon-right-arrow-5"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Blog Two Single-->
-                        </div>
-
-                        <div class="swiper-slide">
-                            <!--Start Blog Two Single-->
-                            <div class="blog-two__single">
-                                <div class="blog-two__single-img">
-                                    <div class="overlay-img__outer">
-                                        <div class="name">
-                                            <p>Harley Russle</p>
-                                        </div>
-                                        <div class="overlay-img">
-                                            <img src="assets/img/blog/blog-v3-img5.jpg" alt="#">
-                                        </div>
-                                    </div>
-                                    <div class="inner">
-                                        <img src="assets/img/blog/blog-v3-img2.jpg" alt="#">
-                                    </div>
-                                </div>
-
-                                <div class="blog-two__single-content">
-                                    <h2><a href="blog-details.html">Going forward, a new normal <br> that has
-                                            evolved</a></h2>
-                                    <ul class="meta-box">
-                                        <li><a href="#">Air Freight</a></li>
-                                        <li>-</li>
-                                        <li>November 13, 2023</li>
-                                    </ul>
-
-                                    <div class="btn-box">
-                                        <a href="blog-details.html">Read More <span
-                                                class="icon-right-arrow-5"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Blog Two Single-->
-                        </div>
-
-                        <div class="swiper-slide">
-                            <!--Start Blog Two Single-->
-                            <div class="blog-two__single">
-                                <div class="blog-two__single-img">
-                                    <div class="overlay-img__outer">
-                                        <div class="name">
-                                            <p>Harley Russle</p>
-                                        </div>
-                                        <div class="overlay-img">
-                                            <img src="assets/img/blog/blog-v3-img6.jpg" alt="#">
-                                        </div>
-                                    </div>
-                                    <div class="inner">
-                                        <img src="assets/img/blog/blog-v3-img3.jpg" alt="#">
-                                    </div>
-                                </div>
-
-                                <div class="blog-two__single-content">
-                                    <h2><a href="blog-details.html">Advanced Service Functions <br> by Air Transport</a>
-                                    </h2>
-                                    <ul class="meta-box">
-                                        <li><a href="#">Air Freight</a></li>
-                                        <li>-</li>
-                                        <li>November 13, 2023</li>
-                                    </ul>
-
-                                    <div class="btn-box">
-                                        <a href="blog-details.html">Read More <span
-                                                class="icon-right-arrow-5"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Blog Two Single-->
-                        </div>
-
-                        <div class="swiper-slide">
-                            <!--Start Blog Two Single-->
-                            <div class="blog-two__single">
-                                <div class="blog-two__single-img">
-                                    <div class="overlay-img__outer">
-                                        <div class="name">
-                                            <p>Harley Russle</p>
-                                        </div>
-                                        <div class="overlay-img">
-                                            <img src="assets/img/blog/blog-v3-img5.jpg" alt="#">
-                                        </div>
-                                    </div>
-                                    <div class="inner">
-                                        <img src="assets/img/blog/blog-v3-img2.jpg" alt="#">
-                                    </div>
-                                </div>
-
-                                <div class="blog-two__single-content">
-                                    <h2><a href="blog-details.html">Going forward, a new normal <br> that has
-                                            evolved</a></h2>
-                                    <ul class="meta-box">
-                                        <li><a href="#">Air Freight</a></li>
-                                        <li>-</li>
-                                        <li>November 13, 2023</li>
-                                    </ul>
-
-                                    <div class="btn-box">
-                                        <a href="blog-details.html">Read More <span
-                                                class="icon-right-arrow-5"></span></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <!--End Blog Two Single-->
-                        </div>
-                    </div>
-                </div>
-                <!-- If we need navigation buttons -->
-                <div class="swiper-pagination" id="blog-two--three__pagination"></div>
-            </div>
-        </section>
-        <!--End Blog Three-->
-
-        <!--Start Brand Two-->
-        <section class="brand-one brand-one--two">
-            <div class="big-title-box">partnerpartner</div>
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 100, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                                    "0": {
-                                        "spaceBetween": 30,
-                                        "slidesPerView": 1
-                                    },
-                                    "375": {
-                                        "spaceBetween": 30,
-                                        "slidesPerView": 1
-                                    },
-                                    "575": {
-                                        "spaceBetween": 30,
-                                        "slidesPerView": 2
-                                    },
-                                    "767": {
-                                        "spaceBetween": 30,
-                                        "slidesPerView": 3
-                                    },
-                                    "991": {
-                                        "spaceBetween": 30,
-                                        "slidesPerView": 4
-                                    },
-                                    "1199": {
-                                        "spaceBetween": 30,
-                                        "slidesPerView": 5
-                                    }
-                                }}'>
-                    <div class="swiper-wrapper">
-
-                        <div class="swiper-slide">
-                            <div class="img-box">
-                                <img src="assets/img/brand/brand-v2-img1.png" alt="#">
-                            </div>
-
-                            <div class="img-box2">
-                                <img src="assets/img/brand/brand-v2-img1.png" alt="#">
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="img-box">
-                                <img src="assets/img/brand/brand-v2-img2.png" alt="#">
-                            </div>
-
-                            <div class="img-box2">
-                                <img src="assets/img/brand/brand-v2-img2.png" alt="#">
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="img-box">
-                                <img src="assets/img/brand/brand-v2-img3.png" alt="#">
-                            </div>
-
-                            <div class="img-box2">
-                                <img src="assets/img/brand/brand-v2-img3.png" alt="#">
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="img-box">
-                                <img src="assets/img/brand/brand-v2-img4.png" alt="#">
-                            </div>
-
-                            <div class="img-box2">
-                                <img src="assets/img/brand/brand-v2-img4.png" alt="#">
-                            </div>
-                        </div>
-
-                        <div class="swiper-slide">
-                            <div class="img-box">
-                                <img src="assets/img/brand/brand-v2-img5.png" alt="#">
-                            </div>
-
-                            <div class="img-box2">
-                                <img src="assets/img/brand/brand-v2-img5.png" alt="#">
-                            </div>
-                        </div>
+                    <div class="btn-box">
+                        <a class="thm-btn" href="#">
+                            <span class="txt">Register on NIWA Express</span> <i class="icon-right-arrow"></i>
+                        </a>
                     </div>
                 </div>
             </div>
-        </section>
-        <!--End Brand Two -->
-
-        <!--Start Cta Three-->
-        <section class="cta-two style3">
-            <div class="container">
-                <div class="cta-two__inner">
-                    <div class="shape1"><img src="assets/img/shape/cta-v3-shape1.png" alt=""></div>
-                    <div class="shape2"><img src="assets/img/shape/cta-v3-shape2.png" alt=""></div>
-                    <div class="shape3 float-bob-x"><img src="assets/img/shape/cta-v3-shape3.png" alt=""></div>
-                    <div class="cta-two__inner-box">
-                        <div class="sec-title-style3">
-                            <div class="sub-title">
-                                <div class="icon">
-                                    <img src="assets/img/icon/title-marker-3.png" alt="">
-                                </div>
-                                <h5>Get in touch</h5>
-                            </div>
-                            <h2>Looking for the best logistics <br>
-                                transport services</h2>
-                        </div>
-
-                        <div class="btn-box">
-                            <a class="thm-btn" href="#">
-                                <span class="txt">Request a Quote</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--End Cta Three-->
+        </div>
+    </section>
+    <!--End Cta Two-->
 
 @endsection
