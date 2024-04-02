@@ -65,11 +65,11 @@
                                          <ul class="navigation">
                                              <li><a href="{{route('/')}}">Home</a></li>
                                              {{-- <li><a href="{{route('about')}}">Services</a></li> --}}
-                                             <li><a href="#">Services</a></li>
+                                             <li><a href="{{route('services')}}">Services</a></li>
                                              <li class="menu-item-has-children"><a href="#">About Us</a>
                                                  <ul class="sub-menu">
-                                                     <li><a href="#">About Us</a></li>
-                                                     <li><a href="#">Overview</a>
+                                                     <li><a href="{{route('about')}}">About Us</a></li>
+                                                     <li><a href="{{route('services')}}">Overview</a>
                                                      </li>
                                                      <li><a href="#">Mandate</a>
                                                      </li>
