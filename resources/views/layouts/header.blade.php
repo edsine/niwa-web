@@ -152,7 +152,7 @@
                  <nav class="menu-box">
                      <div class="close-btn"><i class="fas fa-times"></i></div>
                      <div class="nav-logo">
-                         <a href="index.html"><img src="assets/img/resource/mobile-menu-logo.png" alt="Logo"></a>
+                         <a href="{{route('/')}}"><img src="assets/img//logo/NIWA-logo.png" alt="Logo"></a>
                      </div>
                      <div class="menu-outer">
                          <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
