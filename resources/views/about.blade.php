@@ -9,7 +9,7 @@
                 <div class="page-header__inner text-center">
                     <h2>About us</h2>
                     <ul class="thm-breadcrumb">
-                        <li><a href="index.html">Home</a></li>
+                        <li><a href="{{route('/')}}">Home</a></li>
                         <li><span class="icon-right-arrow-5"></span></li>
                         <li>About us</li>
                     </ul>
