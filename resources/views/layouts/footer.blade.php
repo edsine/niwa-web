@@ -1,5 +1,5 @@
 <footer class="footer-one footer-one--two">
-    <div class="footer-one__bg" style="background-image: url(assets/img/footer/footer-v2-bg.jpg);"></div>
+    <div class="footer-one__bg" style="background-image: url(assets/img/footer/niwa-cards-9.jpg);"></div>
     <div class="shape1 float-bob-y"><img src="assets/img/shape/footer-v2-shape1.png" alt=""></div>
     <div class="shape2 float-bob-y"><img src="assets/img/shape/footer-v2-shape2.png" alt=""></div>
     <!-- Start Footer Main -->
@@ -110,7 +110,7 @@
         <div class="container">
             <div class="footer-bottom__inner">
                 <div class="copyright-text">
-                    <p>© 2023 <a href="index.html">Translo,</a> All Rights Reserved.</p>
+                    <p id="copyrightOutput"></p>
                 </div>
                 <div class="copyright-menu">
                     <ul>
@@ -124,3 +124,9 @@
     </div>
     <!--End Footer Bottom -->
 </footer>
+<script type="text/javascript">
+    var date = new Date();
+    var year = date.getFullYear();
+    var text = "© " + year + ' <a href="{{ route("/") }}">NIWA,</a> All Rights Reserved.';
+    document.getElementById("copyrightOutput").innerHTML = text;
+</script>

@@ -34,13 +34,14 @@
                                     <p>National Inland Waterways Authority</p>
                                 </div>
                                 <div class="title col-md-7">
-                                    <h2>Complete Waterways Registration Process on <br> <Span class="bg-white">NIWA EXPRESS</Span> </h2>
+                                    <h2>Complete Waterways Registration Process on <br> <Span class="bg-white">NIWA
+                                            EXPRESS</Span> </h2>
                                     <!--<br>  <span>Provider</span> -->
                                 </div>
                                 <div class="text col-md-6">
                                     <p>Welcome to the Electronic Register System (NIWA EXPRESS). A platform for vessel
                                         e-registration and management</p>
-                                </div>                                
+                                </div>
                                 <div class="col-md-5">
                                     <div class="row">
                                         <div class="btn-box col-6">
@@ -50,7 +51,7 @@
                                             </a>
                                         </div>
                                         <div class="btn-box col-6">
-                                            <a class="thm-btn"  href="http://express.eniwa.com.ng/login" target="__blank">
+                                            <a class="thm-btn" href="http://express.eniwa.com.ng/login" target="__blank">
                                                 <span class="txt">Continue Registration</span> <i
                                                     class="icon-right-arrow"></i>
                                             </a>
@@ -89,10 +90,10 @@
                                         navigation for transportation of bulk cargo and passengers.</p>
                                 </div>
                                 <!--<div class="btn-box">
-                                                                    <a class="thm-btn" href="#">
-                                                                        <span class="txt">Calculate Package</span> <i class="icon-right-arrow"></i>
-                                                                    </a>
-                                                                </div> -->
+                                                                        <a class="thm-btn" href="#">
+                                                                            <span class="txt">Calculate Package</span> <i class="icon-right-arrow"></i>
+                                                                        </a>
+                                                                    </div> -->
                             </div>
                         </div>
                     </div>
@@ -319,7 +320,8 @@
 
     <!--Start Fact Counter Two-->
     <section class="fact-counter-two">
-        <div class="shape1 float-bob-y"><img style="height: 30vh" src="assets/img/about/ship-png-4.png" alt=""></div>
+        <div class="shape1 float-bob-y"><img style="height: 30vh" src="assets/img/about/ship-png-4.png" alt="">
+        </div>
         <div class="container">
             <div class="row">
                 <!--Start Fact Counter Two Single-->
@@ -705,18 +707,18 @@
                         <form method="post" action="index.html">
                             <div class="company-benefit-one__distance-box">
                                 <!-- <div class="title col-md-7">
-                                                                    <h3>Distance:</h3>
-                                                                </div>
+                                                                        <h3>Distance:</h3>
+                                                                    </div>
 
-                                                                <div class="range-slider-price" data-range-min="50" data-range-max="500"
-                                                                    data-limit="500" data-start-min="50" data-start-max="300"
-                                                                    id="range-slider-price"></div> -->
+                                                                    <div class="range-slider-price" data-range-min="50" data-range-max="500"
+                                                                        data-limit="500" data-start-min="50" data-start-max="300"
+                                                                        id="range-slider-price"></div> -->
 
                                 <div class="form-group">
                                     <div class="inner">
                                         <!--  <p><span id="min-value-rangeslider"></span>km</p>
-                                                                        <span>-</span>
-                                                                        <p><span id="max-value-rangeslider"></span>km</p> -->
+                                                                            <span>-</span>
+                                                                            <p><span id="max-value-rangeslider"></span>km</p> -->
                                     </div>
                                 </div>
                             </div>
@@ -831,7 +833,9 @@
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <span>Answer:</span>
-                                        <p>An inland waterway authority is a government or quasi-governmental organization responsible for managing, regulating, and developing water transportation infrastructure within a specific region or jurisdiction.</p>
+                                        <p>An inland waterway authority is a government or quasi-governmental organization
+                                            responsible for managing, regulating, and developing water transportation
+                                            infrastructure within a specific region or jurisdiction.</p>
                                     </div>
                                 </div>
                             </li>
@@ -845,7 +849,10 @@
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <span>Answer:</span>
-                                        <p>The role of the inland waterway authority is to oversee the planning, development, maintenance, and regulation of navigable waterways to promote safe, efficient, and environmentally sustainable transportation, commerce, and recreation.</p>
+                                        <p>The role of the inland waterway authority is to oversee the planning,
+                                            development, maintenance, and regulation of navigable waterways to promote safe,
+                                            efficient, and environmentally sustainable transportation, commerce, and
+                                            recreation.</p>
                                     </div>
                                 </div>
                             </li>
@@ -854,12 +861,15 @@
                             <!-- Start Faq One Single-->
                             <li class="accrodion">
                                 <div class="accrodion-title">
-                                    <h2><span>03.</span> What types of waterways fall under the jurisdiction of the inland waterway authority?</h2>
+                                    <h2><span>03.</span> What types of waterways fall under the jurisdiction of the inland
+                                        waterway authority?</h2>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <span>Answer:</span>
-                                        <p>Inland waterway authorities typically manage rivers, canals, lakes, and other inland water bodies that are used for transportation, commerce, recreation, and environmental conservation.</p>
+                                        <p>Inland waterway authorities typically manage rivers, canals, lakes, and other
+                                            inland water bodies that are used for transportation, commerce, recreation, and
+                                            environmental conservation.</p>
                                     </div>
                                 </div>
                             </li>
@@ -868,12 +878,16 @@
                             <!-- Start Faq One Single-->
                             <li class="accrodion">
                                 <div class="accrodion-title">
-                                    <h2><span>04.</span>How does the inland waterway authority contribute to economic development?</h2>
+                                    <h2><span>04.</span>How does the inland waterway authority contribute to economic
+                                        development?</h2>
                                 </div>
                                 <div class="accrodion-content">
                                     <div class="inner">
                                         <span>Answer:</span>
-                                        <p>The inland waterway authority contributes to economic development by facilitating the movement of goods, reducing transportation costs, supporting commerce and industry along water corridors, and attracting investment to waterfront areas for commercial and recreational purposes.</p>
+                                        <p>The inland waterway authority contributes to economic development by facilitating
+                                            the movement of goods, reducing transportation costs, supporting commerce and
+                                            industry along water corridors, and attracting investment to waterfront areas
+                                            for commercial and recreational purposes.</p>
                                     </div>
                                 </div>
                             </li>
@@ -916,7 +930,7 @@
     <!-- End Faq One-->
 
     <!--Start Project Two-->
-    <section class="project-two">
+    {{-- <section class="project-two">
         <div class="container">
             <div class="project-two__top">
                 <div class="sec-title-two">
@@ -1010,7 +1024,7 @@
                 <!--End Project Two Single-->                
             </div>
         </div>
-    </section>
+    </section> --}}
     <!--End Project Two-->
 
     <!--Start Team Two-->
@@ -1030,10 +1044,12 @@
                         <!--Start Team Two Single-->
                         <div class="team-two__single">
                             <div class="team-two__single-bg"
-                                style="background-image: url(assets/img/team/Bola-Oyebamiji-NIWA-MD-official-Photo-300x400.jpg);"></div>
+                                style="background-image: url(assets/img/team/Bola-Oyebamiji-NIWA-MD-official-Photo-300x400.jpg);">
+                            </div>
                             <div class="team-two__single-img">
                                 <div class="inner">
-                                    <img src="assets//img/team/Bola-Oyebamiji-NIWA-MD-official-Photo-300x400.jpg" alt="">
+                                    <img src="assets//img/team/Bola-Oyebamiji-NIWA-MD-official-Photo-300x400.jpg"
+                                        alt="">
                                     <div class="social-links">
                                         <a href="#" class="fb"><span class="icon-facebook"></span></a>
                                         <a href="#" class="tw"><span class="icon-twitter"></span></a>
@@ -1176,7 +1192,7 @@
             <div class="google-map-one__content clearfix">
                 <div class="inner-box">
                     <div class="title-box text-center">
-                        <h2>Contact With Us</h2>
+                        <h2>Contact Us</h2>
                     </div>
                     <ul class="accrodion-grp2 google-map__accrodion" data-grp-name="faq-one-accrodion">
                         <!-- Start Google Map Faq Single-->
@@ -1286,9 +1302,8 @@
         </div>
 
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-            class="google-map-one__map" allowfullscreen>
-        </iframe>
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.987126213232!2d6.729090574488685!3d7.791187007136348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104f5e393154a283%3A0x83ba6889b352aacb!2sAdankolo%20Road%20%26%20New%20Layout%20Road%2C%20Lokoja%20260101%2C%20Kogi!5e0!3m2!1sen!2sng!4v1712132375251!5m2!1sen!2sng"
+            class="google-map-one__map" allowfullscreen></iframe>
     </section>
     <!--End Google Map One-->
 
@@ -1331,10 +1346,10 @@
 
                         <div class="blog-two__single-img">
                             <div class="overlay-img">
-                                <img src="assets/img/blog/blog-v2-img4.jpg" alt="#">
+                                <img src="assets/img/blog/niwa-cards-13.jpg" alt="#">
                             </div>
                             <div class="inner">
-                                <img src="assets/img/blog/blog-v2-img1.jpg" alt="#">
+                                <img src="assets/img/blog/niwa-cards-14.jpg" alt="#">
                             </div>
                         </div>
                     </div>
@@ -1359,10 +1374,10 @@
 
                         <div class="blog-two__single-img">
                             <div class="overlay-img">
-                                <img src="assets/img/blog/blog-v2-img5.jpg" alt="#">
+                                <img src="assets/img/blog/niwa-cards-11.jpg" alt="#">
                             </div>
                             <div class="inner">
-                                <img src="assets/img/blog/blog-v2-img2.jpg" alt="#">
+                                <img src="assets/img/blog/niwa-cards-12.jpg" alt="#">
                             </div>
                         </div>
                     </div>
@@ -1388,10 +1403,10 @@
 
                         <div class="blog-two__single-img">
                             <div class="overlay-img">
-                                <img src="assets/img/blog/blog-v2-img6.jpg" alt="#">
+                                <img src="assets/img/blog/niwa-cards-15.jpg" alt="#">
                             </div>
                             <div class="inner">
-                                <img src="assets/img/blog/blog-v2-img3.jpg" alt="#">
+                                <img src="assets/img/blog/niwa-cards-16.jpg" alt="#">
                             </div>
                         </div>
                     </div>
