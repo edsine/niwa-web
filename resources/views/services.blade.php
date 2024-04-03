@@ -30,6 +30,4 @@
 <h1>bheheh</h1>
 <h1>bheheh</h1>
 <h1>bheheh</h1>
-<h1>bheheh</h1>
-<h1>bheheh</h1>
 @endsection
