@@ -43,7 +43,7 @@
                                         e-registration and management</p>
                                 </div>
                                 <div class="col-md-5">
-                                    <div class="row">
+                                    <div class="row"> 
                                         <div class="btn-box col-6">
                                             <a class="thm-btn" href="http://express.eniwa.com.ng/register" target="__blank">
                                                 <span class="txt">Fresh Application</span> <i
