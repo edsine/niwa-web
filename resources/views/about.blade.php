@@ -110,7 +110,7 @@
             </div>
             <div class="container">
                 <div class="services-three__top">
-                    <div class="sec-title-style3">
+                    <div class="sec-title-style3"> 
                         <div class="sub-title">
                             <div class="icon">
                                 <img src="assets/img/icon/title-marker.png" alt="">
